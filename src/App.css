@@ -1,0 +1,32 @@
+.btn{
+    
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+ }
+
+.btn .counter h1{
+    font-size: 77px;
+}
+.btn .counter{
+    text-align: ce;
+}
+.btn .counter button{
+    padding: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.card{
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
